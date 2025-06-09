@@ -9,6 +9,8 @@ We create tools, data formats, and community resources to enable transparent, sc
 
 🌌 Bluesky: https://bsky.app/profile/tacofoundation.bsky.social
 
+🤗 Hugging Face Hub: https://huggingface.co/tacofoundation
+
 📚 Documentation: https://tacofoundation.github.io/documentation/
 
 💬 Community Forum / Discord: https://github.com/orgs/tacofoundation/discussions
