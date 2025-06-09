@@ -5,7 +5,7 @@ We create tools, data formats, and community resources to enable transparent, sc
 
 🌐 Official website: https://tacofoundation.github.io
 
-🐦 Twitter/X: @tacofoundation
+🐦 Twitter/X: https://twitter.com/TheDataTaco
 
 🌌 Bluesky: https://bsky.app/profile/tacofoundation.bsky.social
 
